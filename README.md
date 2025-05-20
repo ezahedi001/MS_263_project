@@ -4,7 +4,7 @@ This repository contains a final project analyzing how sea urchin size and densi
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 kelp-urchin-project/
@@ -13,7 +13,6 @@ kelp-urchin-project/
 ├── density.csv                   # Experimental data: kelp consumption vs urchin density
 ├── size.csv                      # Experimental data: kelp consumption vs urchin size
 ├── README.md                     # Project overview and instructions
-├── figures/                      # (Optional) Exported figures
 └── .gitignore                    # Exclude unnecessary files from repo
 ```
 
